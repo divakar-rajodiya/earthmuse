@@ -3,7 +3,8 @@
     "private": true,
     "type": "module",
     "scripts": {
-        "build": "vite build",
+        "clean": "rm -rf public/build",
+        "build": "npm run clean && vite build",
         "dev": "vite"
     },
     "devDependencies": {
