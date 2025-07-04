@@ -14,7 +14,7 @@
         @if (file_exists(public_path('build/manifest.json')) || file_exists(public_path('hot')))
 {{--            @vite(['resources/css/app.css', 'resources/js/app.js'])--}}
 
-            <link rel="stylesheet" href="{{ asset('build/assets/app-DHkNZtyp.css') }}">
+            <link rel="stylesheet" href="{{ asset('build/assets/app-B3PX8HvK.css') }}">
             <script src="{{ asset('build/assets/app-DNxiirP_.js') }}" defer></script>
         @else
             <style>
