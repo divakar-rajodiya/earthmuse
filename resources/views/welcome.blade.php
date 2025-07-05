@@ -11,8 +11,8 @@
         <link href="https://fonts.bunny.net/css?family=instrument-sans:400,500,600" rel="stylesheet" />
 
         <!-- Styles / Scripts -->
-        <link rel="stylesheet" href="{{ mix('assets/css/app.css') }}">
-        <script src="{{ mix('assets/js/app.js') }}" defer></script>
+        <link rel="stylesheet" href="{{ asset('assets/css/app.css') }}">
+        <script src="{{ asset('assets/js/app.js') }}" defer></script>
     </head>
     <body>
 
