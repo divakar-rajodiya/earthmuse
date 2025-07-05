@@ -24,10 +24,10 @@
 
             <div class="relative z-10 flex flex-col items-center justify-center min-h-screen px-6 py-12 text-center">
                 <div class="mb-12">
-                    <h1 class="text-6xl md:text-7xl font-light text-stone-800 mb-2">EARTHMUSE</h1>
-                    <h2 class="text-2xl md:text-3xl lg:text-4xl font-light text-stone-700 mb-12">
-                        SKINCARE
-                    </h2>
+                    <h1 class="text-6xl md:text-7xl font-light text-stone-800 mb-12">EARTHMUSE</h1>
+{{--                    <h2 class="text-2xl md:text-3xl lg:text-4xl font-light text-stone-700 mb-12">--}}
+{{--                        SKINCARE--}}
+{{--                    </h2>--}}
 
                     <div class="mb-8">
                         <h3 class="text-4xl md:text-5xl lg:text-6xl font-serif text-stone-800 mb-4">Launching</h3>
