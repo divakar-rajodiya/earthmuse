@@ -690,10 +690,6 @@ video {
 .text-center{
   text-align: center;
 }
-.text-2xl{
-  font-size: 1.5rem;
-  line-height: 2rem;
-}
 .text-3xl{
   font-size: 1.875rem;
   line-height: 2.25rem;
@@ -776,10 +772,6 @@ video {
 .text-gray-900{
   --tw-text-opacity: 1;
   color: rgb(17 24 39 / var(--tw-text-opacity, 1));
-}
-.text-stone-700{
-  --tw-text-opacity: 1;
-  color: rgb(68 64 60 / var(--tw-text-opacity, 1));
 }
 .text-stone-800{
   --tw-text-opacity: 1;
@@ -1054,10 +1046,6 @@ video {
     font-size: 1.5rem;
     line-height: 2rem;
   }
-  .md\:text-3xl{
-    font-size: 1.875rem;
-    line-height: 2.25rem;
-  }
   .md\:text-5xl{
     font-size: 3rem;
     line-height: 1;
@@ -1080,10 +1068,6 @@ video {
   .lg\:text-3xl{
     font-size: 1.875rem;
     line-height: 2.25rem;
-  }
-  .lg\:text-4xl{
-    font-size: 2.25rem;
-    line-height: 2.5rem;
   }
   .lg\:text-6xl{
     font-size: 3.75rem;

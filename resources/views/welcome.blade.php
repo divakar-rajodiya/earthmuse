@@ -31,12 +31,12 @@
                         <h3 class="font-seasons-regular text-4xl md:text-5xl lg:text-6xl text-stone-800">soon</h3>
                     </div>
 
-                    <p class="font-lexend-semibold text-lg md:text-xl text-stone-700 max-w-md mx-auto mb-8 leading-relaxed">
+                    <p class="font-lexend-semibold text-lg md:text-xl text-stone-800 max-w-md mx-auto mb-8 leading-relaxed">
                         We are currently making some improvements to our website!
                     </p>
 
                     <a href="mailto:hello@earthmuse.in?subject=Notify Me"
-                       class="bg-white/90 hover:bg-[#6C4840] hover:text-white text-stone-800 px-8 py-3 rounded-full text-sm font-medium tracking-wider border border-stone-200 shadow-sm transition-all duration-300">
+                       class="font-lexend-regular bg-white/90 hover:bg-[#6C4840] hover:text-white text-stone-800 px-8 py-3 rounded-full text-sm font-medium border border-stone-200 shadow-sm transition-all duration-300">
                         NOTIFY ME
                     </a>
                 </div>
