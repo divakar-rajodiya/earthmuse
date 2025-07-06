@@ -25,9 +25,6 @@
             <div class="relative z-10 flex flex-col items-center justify-center min-h-screen px-6 py-12 text-center">
                 <div class="mb-12">
                     <h1 class="font-seasons-bold text-6xl md:text-7xl font-light text-stone-800 mb-12">EARTHMUSE</h1>
-{{--                    <h2 class="text-2xl md:text-3xl lg:text-4xl font-light text-stone-700 mb-12">--}}
-{{--                        SKINCARE--}}
-{{--                    </h2>--}}
 
                     <div class="mb-8">
                         <h3 class="font-seasons-regular text-4xl md:text-5xl lg:text-6xl text-stone-800 mb-4">Launching</h3>
