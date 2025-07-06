@@ -836,63 +836,63 @@ video {
 }
 @font-face {
   font-family: "TheSeasons-Regular";
-  src: url(/fonts/regular.otf?2c9625941d4c89994b85c20c471c7ce2) format("opentype");
+  src: url("/assets/fonts/the-seasons/regular.otf") format("opentype");
 }
 @font-face {
   font-family: "TheSeasons-Bold";
-  src: url(/fonts/bold.otf?bfac8d3a3f5d0e5eae5b17cd433d99b5) format("opentype");
+  src: url("/assets/fonts/the-seasons/bold.otf") format("opentype");
 }
 @font-face {
   font-family: "TheSeasons-Italic";
-  src: url(/fonts/italic.otf?1ccaa2e0059f89069da0ffc1e24f325a) format("opentype");
+  src: url("/assets/fonts/the-seasons/italic.otf") format("opentype");
 }
 @font-face {
   font-family: "TheSeasons-BoldItalic";
-  src: url(/fonts/bold-italic.otf?2dbdb2cb0872c1bc5bb966e4ce6c1a6a) format("opentype");
+  src: url("/assets/fonts/the-seasons/bold-italic.otf") format("opentype");
 }
 @font-face {
   font-family: "TheSeasons-Light";
-  src: url(/fonts/light.otf?84bae4123e7ef6d61da88df6185eef35) format("opentype");
+  src: url("/assets/fonts/the-seasons/light.otf") format("opentype");
 }
 @font-face {
   font-family: "TheSeasons-LightItalic";
-  src: url(/fonts/light-italic.otf?fc211db7a9946d0c3c8eaa56f2008c97) format("opentype");
+  src: url("/assets/fonts/the-seasons/light-italic.otf") format("opentype");
 }
 @font-face {
   font-family: "LexendGiga-Thin";
-  src: url(/fonts/thin.ttf?a7e46d0a7de099a418cef600b70dd03e) format("truetype");
+  src: url("/assets/fonts/lexend-giga/thin.ttf") format("truetype");
 }
 @font-face {
   font-family: "LexendGiga-ExtraLight";
-  src: url(/fonts/extralight.ttf?4bfd1fe7ade79e89d1c8350480281f0a) format("truetype");
+  src: url("/assets/fonts/lexend-giga/extralight.ttf") format("truetype");
 }
 @font-face {
   font-family: "LexendGiga-Light";
-  src: url(/fonts/light.ttf?4a9176de0f28d9ddd52f4c4262efd980) format("truetype");
+  src: url("/assets/fonts/lexend-giga/light.ttf") format("truetype");
 }
 @font-face {
   font-family: "LexendGiga-Regular";
-  src: url(/fonts/regular.ttf?dd4d2cc7f2e3d75dbd58689a86b67941) format("truetype");
+  src: url("/assets/fonts/lexend-giga/regular.ttf") format("truetype");
 }
 @font-face {
   font-family: "LexendGiga-Medium";
-  src: url(/fonts/medium.ttf?b5e85fee8bffc386af648a34416179fd) format("truetype");
+  src: url("/assets/fonts/lexend-giga/medium.ttf") format("truetype");
 }
 @font-face {
   font-family: "LexendGiga-SemiBold";
-  src: url(/fonts/semibold.ttf?618bf1579ca7b59453446aa7310ae2f6) format("truetype");
+  src: url("/assets/fonts/lexend-giga/semibold.ttf") format("truetype");
 }
 @font-face {
   font-family: "LexendGiga-Bold";
-  src: url(/fonts/bold.ttf?7c759cd37af434ac30a46608058b65b9) format("truetype");
+  src: url("/assets/fonts/lexend-giga/bold.ttf") format("truetype");
 }
 @font-face {
   font-family: "LexendGiga-ExtraBold";
-  src: url(/fonts/extrabold.ttf?c7ccc59526efb4f912469bd4204c92ea) format("truetype");
+  src: url("/assets/fonts/lexend-giga/extrabold.ttf") format("truetype");
 }
 @font-face {
   font-family: "LexendGiga-Black";
-  src: url(/fonts/black.ttf?50adab7f8354654b7ed5aecd784cf603) format("truetype");
+  src: url("/assets/fonts/lexend-giga/black.ttf") format("truetype");
 }
 .font-seasons-regular {
   font-family: "TheSeasons-Regular", serif !important;
