@@ -31,7 +31,7 @@
                         <h3 class="font-seasons-regular text-4xl md:text-5xl lg:text-6xl text-stone-800">soon</h3>
                     </div>
 
-                    <p class="font-lexend-semibold text-lg md:text-xl text-stone-800 max-w-md mx-auto mb-8 leading-relaxed">
+                    <p class="font-lexend-semibold text-sm md:text-xl text-stone-800 max-w-md mx-auto mb-8 leading-relaxed">
                         We are currently making some improvements to our website!
                     </p>
 
@@ -51,10 +51,10 @@
                 </div>
 
                 <div class="text-center">
-                    <p class="font-lexend-semibold text-xl md:text-2xl lg:text-3xl text-stone-800 leading-relaxed">
+                    <p class="font-lexend-semibold text-sm md:text-2xl lg:text-3xl text-stone-800 leading-relaxed">
                         Skincare Grounded in Science.
                     </p>
-                    <p class="font-lexend-semibold text-xl md:text-2xl lg:text-3xl text-stone-800">Elevated by Earth.</p>
+                    <p class="font-lexend-semibold text-sm md:text-2xl lg:text-3xl text-stone-800">Elevated by Earth.</p>
                 </div>
             </div>
         </div>
