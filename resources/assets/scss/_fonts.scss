@@ -1,0 +1,137 @@
+// The Seasons
+@font-face {
+    font-family: 'TheSeasons-Regular';
+    src: url("../fonts/the-seasons/regular.otf") format('opentype');
+}
+
+@font-face {
+    font-family: 'TheSeasons-Bold';
+    src: url('../fonts/the-seasons/bold.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'TheSeasons-Italic';
+    src: url('../fonts/the-seasons/italic.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'TheSeasons-BoldItalic';
+    src: url('../fonts/the-seasons/bold-italic.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'TheSeasons-Light';
+    src: url('../fonts/the-seasons/light.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'TheSeasons-LightItalic';
+    src: url('../fonts/the-seasons/light-italic.otf') format('opentype');
+}
+
+// Lexend Giga
+@font-face {
+    font-family: 'LexendGiga-Thin';
+    src: url('../fonts/lexend-giga/thin.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'LexendGiga-ExtraLight';
+    src: url('../fonts/lexend-giga/extralight.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'LexendGiga-Light';
+    src: url('../fonts/lexend-giga/light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'LexendGiga-Regular';
+    src: url('../fonts/lexend-giga/regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'LexendGiga-Medium';
+    src: url('../fonts/lexend-giga/medium.ttf') format('truetype');
+
+}
+@font-face {
+    font-family: 'LexendGiga-SemiBold';
+    src: url('../fonts/lexend-giga/semibold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'LexendGiga-Bold';
+    src: url('../fonts/lexend-giga/bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'LexendGiga-ExtraBold';
+    src: url('../fonts/lexend-giga/extrabold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'LexendGiga-Black';
+    src: url('../fonts/lexend-giga/black.ttf') format('truetype');
+}
+
+.font-seasons-regular {
+    font-family: 'TheSeasons-Regular', serif !important;
+}
+
+.font-seasons-bold {
+    font-family: 'TheSeasons-Bold', serif !important;
+}
+
+.font-seasons-italic {
+    font-family: 'TheSeasons-Italic', serif !important;
+}
+
+.font-seasons-bolditalic {
+    font-family: 'TheSeasons-BoldItalic', serif !important;
+}
+
+.font-seasons-light {
+    font-family: 'TheSeasons-Light', serif !important;
+}
+
+.font-seasons-lightitalic {
+    font-family: 'TheSeasons-LightItalic', serif !important;
+}
+
+
+.font-lexend-thin {
+    font-family: 'LexendGiga-Thin', sans-serif !important;
+}
+
+.font-lexend-extralight {
+    font-family: 'LexendGiga-ExtraLight', sans-serif !important;
+}
+
+.font-lexend-light {
+    font-family: 'LexendGiga-Light', sans-serif !important;
+}
+
+.font-lexend-regular {
+    font-family: 'LexendGiga-Regular', sans-serif !important;
+}
+
+.font-lexend-medium {
+    font-family: 'LexendGiga-Medium', sans-serif !important;
+}
+
+.font-lexend-semibold {
+    font-family: 'LexendGiga-SemiBold', sans-serif !important;
+}
+
+.font-lexend-bold {
+    font-family: 'LexendGiga-Bold', sans-serif !important;
+}
+
+.font-lexend-extrabold {
+    font-family: 'LexendGiga-ExtraBold', sans-serif !important;
+}
+
+.font-lexend-black {
+    font-family: 'LexendGiga-Black', sans-serif !important;
+}

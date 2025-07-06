@@ -24,17 +24,17 @@
 
             <div class="relative z-10 flex flex-col items-center justify-center min-h-screen px-6 py-12 text-center">
                 <div class="mb-12">
-                    <h1 class="text-6xl md:text-7xl font-light text-stone-800 mb-12">EARTHMUSE</h1>
+                    <h1 class="font-seasons-bold text-6xl md:text-7xl font-light text-stone-800 mb-12">EARTHMUSE</h1>
 {{--                    <h2 class="text-2xl md:text-3xl lg:text-4xl font-light text-stone-700 mb-12">--}}
 {{--                        SKINCARE--}}
 {{--                    </h2>--}}
 
                     <div class="mb-8">
-                        <h3 class="text-4xl md:text-5xl lg:text-6xl font-serif text-stone-800 mb-4">Launching</h3>
-                        <h3 class="text-4xl md:text-5xl lg:text-6xl font-serif text-stone-800">soon!</h3>
+                        <h3 class="font-seasons-regular text-4xl md:text-5xl lg:text-6xl text-stone-800 mb-4">Launching</h3>
+                        <h3 class="font-seasons-regular text-4xl md:text-5xl lg:text-6xl text-stone-800">soon</h3>
                     </div>
 
-                    <p class="text-lg md:text-xl text-stone-700 max-w-md mx-auto mb-8 leading-relaxed">
+                    <p class="font-lexend-semibold text-lg md:text-xl text-stone-700 max-w-md mx-auto mb-8 leading-relaxed">
                         We are currently making some improvements to our website!
                     </p>
 
@@ -45,7 +45,7 @@
                 </div>
 
                 <div class="mb-12">
-                    <p class="text-xl md:text-2xl font-bold tracking-wider text-stone-800 mb-6">Follow Our Journey</p>
+                    <p class="font-lexend-semibold text-xl md:text-2xl font-bold tracking-wider text-stone-800 mb-6">Follow Our Journey</p>
                     <div class="flex justify-center">
                         <a href="https://www.instagram.com/earthmuse.in" target="_blank">
                             <i class="fa-brands fa-instagram text-3xl text-[#6C4840] hover:opacity-80"></i>
@@ -54,16 +54,12 @@
                 </div>
 
                 <div class="text-center">
-                    <p class="text-xl md:text-2xl lg:text-3xl font-light text-stone-800 leading-relaxed">
+                    <p class="font-lexend-semibold text-xl md:text-2xl lg:text-3xl text-stone-800 leading-relaxed">
                         Skincare Grounded in Science.
                     </p>
-                    <p class="text-xl md:text-2xl lg:text-3xl font-light text-stone-800">Elevated by Earth.</p>
+                    <p class="font-lexend-semibold text-xl md:text-2xl lg:text-3xl text-stone-800">Elevated by Earth.</p>
                 </div>
             </div>
         </div>
-
-        @if (Route::has('login'))
-            <div class="h-14.5 hidden lg:block"></div>
-        @endif
     </body>
 </html>
